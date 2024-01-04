@@ -20,8 +20,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-4thGx7DsIJ)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/stats-preview-card-component-main/)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/profile-card-component-QQCayfzRDh)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/profile-card-component-main/)
 
 ## My process
 
